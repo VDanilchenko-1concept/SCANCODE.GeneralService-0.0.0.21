@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+    <facet type="apk" name="APK">
+      <configuration>
+        <option name="APK_PATH" value="$MODULE_DIR$/SCANCODE.GeneralService-0.0.0.21.apk" />
+        <option name="APP_PACKAGE" value="ru.scancode.generalservice" />
+        <option name="SETUP_ISSUES">
+          <list>
+            <SetupIssue>
+              <option name="severity" value="WARNING" />
+              <option name="category" value="DEBUG_SYMBOLS_MISSING" />
+              <option name="extraInfo" value="" />
+            </SetupIssue>
+          </list>
+        </option>
+        <option name="NATIVE_LIBRARIES">
+          <list>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi/libDeviceAPI.so" />
+                </list>
+              </option>
+              <option name="name" value="libDeviceAPI.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/x86/libModuleAPIJni.so" />
+                  <option value="$MODULE_DIR$/lib/x86_64/libModuleAPIJni.so" />
+                  <option value="$MODULE_DIR$/lib/armeabi/libModuleAPIJni.so" />
+                  <option value="$MODULE_DIR$/lib/arm64-v8a/libModuleAPIJni.so" />
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libModuleAPIJni.so" />
+                </list>
+              </option>
+              <option name="name" value="libModuleAPIJni.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi/libSP.so" />
+                </list>
+              </option>
+              <option name="name" value="libSP.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi/libUhf-lib.so" />
+                </list>
+              </option>
+              <option name="name" value="libUhf-lib.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi/libpackage.so" />
+                </list>
+              </option>
+              <option name="name" value="libpackage.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi/libserial_port_spd.so" />
+                  <option value="$MODULE_DIR$/lib/arm64-v8a/libserial_port_spd.so" />
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libserial_port_spd.so" />
+                </list>
+              </option>
+              <option name="name" value="libserial_port_spd.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/x86/libuhf_sdk.so" />
+                  <option value="$MODULE_DIR$/lib/x86_64/libuhf_sdk.so" />
+                  <option value="$MODULE_DIR$/lib/armeabi/libuhf_sdk.so" />
+                  <option value="$MODULE_DIR$/lib/arm64-v8a/libuhf_sdk.so" />
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libuhf_sdk.so" />
+                </list>
+              </option>
+              <option name="name" value="libuhf_sdk.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi/libuhfrfid.so" />
+                </list>
+              </option>
+              <option name="name" value="libuhfrfid.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+          </list>
+        </option>
+        <option name="JAVA_SOURCE_FOLDER_PATHS">
+          <set />
+        </option>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/lib" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
